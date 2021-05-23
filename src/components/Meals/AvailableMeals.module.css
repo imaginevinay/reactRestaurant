@@ -10,7 +10,13 @@
     margin: 0;
     padding: 0;
   }
-  
+
+  .listNotFoundYet {
+    text-align: center;
+    margin-top: 10%;
+    color: rgb(255, 0, 0);
+  }
+
   @keyframes meals-appear {
     from {
       opacity: 0;

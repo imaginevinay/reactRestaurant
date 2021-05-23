@@ -44,3 +44,19 @@
     background-color: #8a2b06;
     color: white;
   }
+
+  .submitting {
+    text-align: center;
+    margin-top: 10%;
+    color: rgb(255, 0, 0);
+  }
+
+  .orderPlacedText{
+    top: 18rem;
+    right: 14rem;
+    position: absolute;
+  }
+
+  .orderPlaceAction{
+    text-align: center !important;
+  }
